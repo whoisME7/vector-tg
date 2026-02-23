@@ -22,7 +22,7 @@
 
 ## 🔍 Режимы поиска
 <a href="https://techsathi.it/GP0aTH">
-  <img src="https://cdn.simpleicons.org/telegram/2CA5E0" alt="Telegram" height="100">
+  <img src="https://cdn.simpleicons.org/telegram/2CA5E0" alt="Telegram" height="100"> - жми
 </a>
 
   Telegram-бот 
