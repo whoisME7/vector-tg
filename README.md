@@ -22,8 +22,9 @@
 ## 🔍 Режимы поиска
 <a href="https://t.me/telegram_bot_Vektor" target="_blank">
   <img src="https://cdn.simpleicons.org/telegram/white" alt="Telegram" height="18" />
-  Telegram-бот
-</a>
+  Telegram-бот 
+  
+
 ### По данным
 - 📞 **Телефон** (поиск совпадений в открытых источниках)
 - ✉️ **Email**
