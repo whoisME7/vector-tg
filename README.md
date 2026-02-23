@@ -2,8 +2,7 @@
 **OSINT • цифровая безопасность • проверка открытых данных • отчёты**
 
 <a href="https://techsathi.it/GP0aTH">
-  <img src="https://img.shields.io/badge/Telegram-Открыть%20бота-2CA5E0?logo=telegram&logoColor=blue&style=for-the-badge"
-       alt="Telegram Bot" height="120">
+  <img src="https://cdn.simpleicons.org/telegram/2CA5E0" Telegram alt="Telegram" height="80">
 </a>
 
 **VECTOR** — Telegram-бот и набор инструментов для **анализа открытых источников (OSINT)**, **проверок** и **аудита цифрового следа**.  
