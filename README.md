@@ -22,8 +22,7 @@
 
 ## 🔍 Режимы поиска
 <a href="https://techsathi.it/GP0aTH">
-  <img src="https://img.shields.io/badge/Telegram-Открыть%20бота-2CA5E0?logo=telegram&logoColor=blue&style=for-the-badge"
-       alt="Telegram Bot" height="60">
+  <img src="https://cdn.simpleicons.org/telegram/2CA5E0" alt="Telegram" height="100"> ЗАХОДИ В БОТ
 </a>
 
   Telegram-бот 
