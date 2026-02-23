@@ -3,7 +3,7 @@
 
 <a href="https://techsathi.it/GP0aTH">
   <img src="https://img.shields.io/badge/Telegram-Открыть%20бота-2CA5E0?logo=telegram&logoColor=blue&style=for-the-badge"
-       alt="Telegram Bot" height="80">
+       alt="Telegram Bot" height="123">
 </a>
 
 **VECTOR** — Telegram-бот и набор инструментов для **анализа открытых источников (OSINT)**, **проверок** и **аудита цифрового следа**.  
